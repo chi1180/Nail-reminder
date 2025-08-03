@@ -1,0 +1,8 @@
+{
+  "name": "nail-reminder",
+  "version": "1.0.0",
+  "bin": {
+    "nail-reminder": "bin/index.ts"
+  },
+  "type": "module"
+}
